@@ -18,7 +18,7 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 
 #### Retail 
 
-(price of non-gram-quality gold in 14k or regular silver per gram X weight of jewelry in grams) + (20 USD or 1,113.60 PHP per labor hour) + (10% overhead) x 2.5
+- (price of non-gram-quality gold in 14k or regular silver per gram X weight of jewelry in grams) + (20 USD or 1,113.60 PHP per labor hour) + (10% overhead) x 2.5
 
 #### Metallurgy Tariff
 - Price of non-gram 6k gold per gram: 816.70 PHP
@@ -47,4 +47,6 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 - What to consider when pricing your jewelry line. (2018, May 14). Metalsmith Society. https://metalsmithsociety.com/blogs/news/what-to-consider-when-pricing-your-jewelry-line
 
 ## Members
-
+JERAHMEEL HOSHAIAH FRANCISCO
+KINGSTON MENDOZA
+CARL ALFRED PEDALINO
