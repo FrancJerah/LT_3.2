@@ -47,6 +47,6 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 - What to consider when pricing your jewelry line. (2018, May 14). Metalsmith Society. https://metalsmithsociety.com/blogs/news/what-to-consider-when-pricing-your-jewelry-line
 
 ## Members
-JERAHMEEL HOSHAIAH FRANCISCO
-KINGSTON MENDOZA
-CARL ALFRED PEDALINO
+- JERAHMEEL HOSHAIAH FRANCISCO
+- KINGSTON MENDOZA
+- CARL ALFRED PEDALINO
