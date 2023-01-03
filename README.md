@@ -9,6 +9,8 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 ## Key Features
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/108663786/210383632-efdb2182-5dd6-4c73-881a-d45ccc25aaeb.png)
+![image](https://user-images.githubusercontent.com/108663786/210383805-fe5ff719-d6b7-489d-a8f0-c4a21d882517.png)
 
 ## References
 
