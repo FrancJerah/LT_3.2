@@ -12,5 +12,5 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 
 ## References
 
-## Contributors
+## Members
 
