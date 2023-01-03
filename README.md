@@ -7,9 +7,9 @@ ForeverGems App is a jewelry pricing app that provides information and knowledge
 
 
 ## Key Features
--- Provides product listings of various jewelries (silver and gold items)
--- Provides price listings of various jewelries (silver and gold items)
--- Links various jewelries for men and women
+- Provides product listings of various jewelries (silver and gold items)
+- Provides price listings of various jewelries (silver and gold items)
+- Links various jewelries for men and women
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/108663786/210383632-efdb2182-5dd6-4c73-881a-d45ccc25aaeb.png)
 ![image](https://user-images.githubusercontent.com/108663786/210383805-fe5ff719-d6b7-489d-a8f0-c4a21d882517.png)
